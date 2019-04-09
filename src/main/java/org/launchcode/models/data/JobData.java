@@ -41,8 +41,7 @@ public class JobData {
         return null;
     }
 
-    public ArrayList<Job> findAll() {
-        return jobs;
+    public ArrayList<Job> findAll() { return jobs;
     }
 
 
